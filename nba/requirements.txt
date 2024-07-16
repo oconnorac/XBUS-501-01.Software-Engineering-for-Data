@@ -18,3 +18,4 @@ matplotlib==1.5.3
 
 # If you want to do the lab in iPython
 ipython==5.1.0
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
